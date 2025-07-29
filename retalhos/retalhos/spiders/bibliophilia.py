@@ -4,8 +4,8 @@ import random
 from agents import user_agents
 
 
-class BibliofiliaSpider(scrapy.Spider):
-    name = "bibliofilia"
+class BibliophiliaSpider(scrapy.Spider):
+    name = "bibliophilia"
     allowed_domains = ["books.toscrape.com"]
     start_urls = ["https://books.toscrape.com"]
 
