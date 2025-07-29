@@ -1,4 +1,4 @@
-# 🕸️ Bibliphilia, uma spider simples com Scrapy
+# 🕸️ Bibliophilia, uma spider simples com Scrapy
 
 Este repositório contém uma spider simples desenvolvida com [Scrapy](https://scrapy.org/), com o objetivo de praticar meus conhecimentos em coleta de dados web — mais comumente conhecida como **Web Scraping** — bem como com o de compartilhar um pouco daquilo que aprendi. 
 
