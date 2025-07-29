@@ -17,6 +17,7 @@ O projeto foi criado como parte do meu aprendizado em ciência de dados, com foc
 - **Scrapy**
 
 ## 📦 Estrutura (somente partes principais)
+```
 retalhos/
 ├── retalhos/                 # Pasta principal do Scrapy
 │   ├── spiders/
@@ -28,3 +29,4 @@ retalhos/
 │   └── settings.py           # Configurações do Scrapy
 ├── requirements.txt          # Lista de dependências
 └── README.md                 # Documentação do projeto
+```
