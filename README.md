@@ -30,3 +30,8 @@ retalhos/
 ├── requirements.txt          # Lista de dependências
 └── README.md                 # Documentação do projeto
 ```
+
+## Disclaimer
+Os dados foram coletados a partir de um website de conteúdo **explicitamente** público e voltado **unicamente** à pratica de web scraping. **Nenhum** dado foi violado.
+Os preços e disponibilidades em estoque de cada um dos livros são fictícios, e seus títulos e sinopses são informações de conhecimento público, então **os direitos autorais permanecem inviolados**.
+> Todos os direitos de propriedade legal sobre os livros mencionados são de seus respectivos autores.
