@@ -13,5 +13,18 @@ O projeto foi criado como parte do meu aprendizado em ciência de dados, com foc
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.**  
-- **Scrapy.**  
+- **Python 3**  
+- **Scrapy**
+
+## 📦 Estrutura (somente partes principais)
+retalhos/
+├── retalhos/                 # Pasta principal do Scrapy
+│   ├── spiders/
+│   │   └── bibliphilia.py    # Spider principal
+│   ├── items.py              
+│   ├── middlewares.py
+|   ├── pipelines.py
+|   ├── results.json          # Amostras de resultados
+│   └── settings.py           # Configurações do Scrapy
+├── requirements.txt          # Lista de dependências
+└── README.md                 # Documentação do projeto
